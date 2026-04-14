@@ -1,4 +1,4 @@
-Telegram Bot 🤖
+This is my first Telegram Bot
 
 I made this bot for my sister, but you can use it too!
 
