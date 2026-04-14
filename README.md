@@ -19,4 +19,4 @@ Installation & Setup
 1. Clone the repository.
 2. Install dependencies: pip install -r requirements.txt.
 3. Configure your BOT_TOKEN in the main script.
-4. Run BotForMargo.py.
+4. Run TelegramBot.py.
